@@ -792,8 +792,8 @@ main{
     width: 100%;
 }
 #contact .contact-row .contact-left{
-    flex-basis: 40%;
-    min-width: 40%;
+    flex-basis: 60%;
+    min-width: 60%;
     background-color: white;
     box-shadow: 0 0 20px rgba(0, 0, 0, 20%);
     border-radius: 4px;
@@ -831,8 +831,8 @@ main{
     font-weight: 500;
 }
 #contact .contact-row .contact-right{
-    flex-basis: 60%;
-    min-width: 60%;
+    flex-basis: 40%;
+    min-width: 40%;
     background-color: white;
     box-shadow: 0 0 20px rgba(0, 0, 0, 20%);
     border-radius: 4px;
@@ -910,3 +910,4 @@ main{
     background-color: var(--sideBGColor);
     color: var(--bgColor);
 }
+
